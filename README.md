@@ -1,5 +1,5 @@
-# Selector de Basura Inteligente
-##  Proyecto de Curso: Diseño Mecatrónico
+# Clasificador automático de residuos sólidos
+Proyecto de Curso: Diseño Mecatrónico
 
 ### Autores:
 - Alfred
@@ -8,7 +8,7 @@
 - Huamán Huamán, William Fabián
 - Mendoza Pascual, Lady Alexandra
 - Rocha Montoya, Carlos Adrian
-- Vargas Quiroz, James Anderson José
+- Vargas Quiroz, James Anderson Jose
 
 
 ### Resumen:

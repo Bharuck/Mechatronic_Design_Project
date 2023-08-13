@@ -8,7 +8,7 @@ Proyecto de Curso: Diseño Mecatrónico
 - Huamán Huamán, William Fabián
 - Mendoza Pascual, Lady Alexandra
 - Rocha Montoya, Carlos Adrian
-- Vargas Quiroz, James Anderson Jose
+- Vargas Quiroz, James Anderson Jose Octavio
 
 
 ### Resumen:

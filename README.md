@@ -18,7 +18,7 @@ Proyecto de Curso: Diseño Mecatrónico
 En el presente proyecto se desarrolla un contenedor de desechos inteligente, capaz de clasificar los residuos que se introducen dentro, logrando clasificar los desechos hasta en 5 tipos distintos: Papel, plástico, vidrio, metal y orgánicos/otros. El reconocimiento de los residuos se logra gracias a sensores y todo el control es realizado mediante un Arduino Mega 2560.
 
 ### Flujo de Funcionamiento:
-
+![Flujograma](https://github.com/Bharuck/Mechatronic_Design_Project/blob/main/1.Documentaci%C3%B3n/imgs/DiagramaDeFlujo.png?raw=true)
 
 ### Diagrama Eléctrico:
 Como se mencionaba antes, para lograr el reconocimiento de los residuos se utilizaron sensores, .y para accionar el mecanismo se usaron motores nema y servomotores
